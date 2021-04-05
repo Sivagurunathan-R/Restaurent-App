@@ -61,9 +61,7 @@ const Home = () => {
             },1000)
 
     },[])
-
-    const params = {"restaurant_name" : "Dolce Vita" , "zip_code" : "99501"}
-
+    
     const handleSearchSubmit = (e) => {
 
         e.preventDefault()
