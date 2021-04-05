@@ -105,7 +105,7 @@ const Home = () => {
                     </Container>
             </>
                 : <div style={{
-                    height:"100vh" , 
+                    height:"75vh" , 
                     width: "100%" ,
                     maxWidth:"100vw",
                     display:"grid",
